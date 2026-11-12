@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pop Quest</string>
+    <string name="reminder_channel">Game reminders</string>
+
+    <!--
+        AdMob IDs. These are Google's official TEST IDs, safe to use while you develop.
+        Replace all three with your own IDs from admob.google.com before you publish (README step 3).
+        Never click your own real ads.
+    -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_rewarded_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

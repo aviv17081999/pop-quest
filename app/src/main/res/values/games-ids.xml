@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Google Play Games IDs (README step 5).
+    In Play Console > Play Games Services > Setup and management, create the leaderboard and
+    achievements listed below, then paste each ID here in place of REPLACE_ME.
+    The project ID is the number shown at the top of the Play Games Services setup page.
+-->
+<resources>
+    <string name="game_services_project_id" translatable="false">000000000000</string>
+
+    <!-- Leaderboard: "Weekly Rush" (score format: numeric, higher is better) -->
+    <string name="leaderboard_weekly_rush" translatable="false">REPLACE_ME</string>
+
+    <!-- Achievements (names must stay exactly as written: achievement_ + the game's key) -->
+    <string name="achievement_lv10" translatable="false">REPLACE_ME</string>     <!-- Getting started: reach level 10 -->
+    <string name="achievement_lv50" translatable="false">REPLACE_ME</string>     <!-- World traveller: reach level 50 -->
+    <string name="achievement_lv100" translatable="false">REPLACE_ME</string>    <!-- Centurion: reach level 100 -->
+    <string name="achievement_hard10" translatable="false">REPLACE_ME</string>   <!-- Tough cookie: beat 10 hard levels -->
+    <string name="achievement_pop1k" translatable="false">REPLACE_ME</string>    <!-- Bubble buster: pop 1,000 bubbles -->
+    <string name="achievement_ice50" translatable="false">REPLACE_ME</string>    <!-- Ice breaker: crack 50 ice bubbles -->
+    <string name="achievement_chain25" translatable="false">REPLACE_ME</string>  <!-- Chain cutter: break 25 chains -->
+    <string name="achievement_streak7" translatable="false">REPLACE_ME</string>  <!-- Daily devotee: play 7 days in a row -->
+</resources>
